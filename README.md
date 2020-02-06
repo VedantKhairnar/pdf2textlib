@@ -3,10 +3,11 @@
 ## pip install pdf2textlib
 
 
-[![PyPI Status](https://img.shields.io/pypi/v/pdftotext.svg)](https://pypi.python.org/pypi/pdftotext)
+[![PyPI Status](https://img.shields.io/pypi/v/pdf2textlib.svg)](https://pypi.org/project/pdf2textlib/)
+[![Downloads](https://img.shields.io/pypi/v/pdf2textlib.svg)](https://pypistats.org/packages/pdf2textlib)
 
 
-Simple PDF text extraction
+Simple Multilingual PDF text extraction, Also extracts from images
 
 ```python
 import pdf2textlib
