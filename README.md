@@ -11,7 +11,9 @@ Simple PDF text extraction
 ```python
 import pdf2textlib
 
-print(pdf2textlib.getText("Demo.pdf","eng+tel+urd"))
+print(pdf2textlib.getText("Demo.pdf","eng+tel+urd"))  
+# parameter 1 : Path to the PDF file
+# parameter 2 : string of language codes separated by '+' sign 
 
 ```
 
