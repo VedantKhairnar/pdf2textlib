@@ -1,6 +1,5 @@
 # pdf2textlib
 
-## pip install pdf2textlib
 
 
 [![PyPI Status](https://img.shields.io/pypi/v/pdf2textlib.svg)](https://pypi.org/project/pdf2textlib/)
@@ -59,5 +58,5 @@ Currently tested only when using conda:
 ## Install
 
 ```
-pip install pdf2text
+pip install pdf2textlib
 ```
