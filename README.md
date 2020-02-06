@@ -4,7 +4,7 @@
 
 
 [![PyPI Status](https://img.shields.io/pypi/v/pdf2textlib.svg)](https://pypi.org/project/pdf2textlib/)
-[![Downloads](https://img.shields.io/pypi/v/pdf2textlib.svg)](https://pypistats.org/packages/pdf2textlib)
+[![Downloads](https://img.shields.io/pypi/dm/pdf2textlib.svg)](https://pypistats.org/packages/pdf2textlib)
 
 
 Simple Multilingual PDF text extraction, Also extracts from images
